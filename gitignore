@@ -1,0 +1,24 @@
+
+---
+
+##  .gitignore (Python)
+
+حط هاد المحتوى فـ ملف سميتو `.gitignore`:
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
